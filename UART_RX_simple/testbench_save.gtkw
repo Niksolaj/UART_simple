@@ -1,0 +1,39 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Tue Jun 13 09:32:31 2023
+[*]
+[dumpfile] "/home/soft/UART_simple/UART_RX_simple/UART_RX_simple.vcd"
+[dumpfile_mtime] "Tue Jun 13 09:10:03 2023"
+[dumpfile_size] 796644
+[savefile] "/home/soft/UART_simple/UART_RX_simple/testbench_save.gtkw"
+[timestart] 0
+[size] 2560 1403
+[pos] 2406 0
+*-25.512335 43650000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] UART_RX_simple_tb.
+[sst_width] 233
+[signals_width] 220
+[sst_expanded] 1
+[sst_vpaned_height] 451
+@200
+-testbench
+@28
+UART_RX_simple_tb.clk_tb
+@22
+UART_RX_simple_tb.state_tb[3:0]
+@28
+UART_RX_simple_tb.serial_data_tb
+@200
+-
+-dut (UART_RX_simple)
+@28
+UART_RX_simple_tb.dut.uart_clk
+@22
+UART_RX_simple_tb.dut.bit_state[3:0]
+@28
+UART_RX_simple_tb.dut.serial_rx
+UART_RX_simple_tb.dut.uart_data_redy
+@23
+UART_RX_simple_tb.dut.rx_byte[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
