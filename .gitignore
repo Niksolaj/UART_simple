@@ -1,0 +1,4 @@
+*.gtkw
+*.vcd
+*_top*.v
+Makefile
