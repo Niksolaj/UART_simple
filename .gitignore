@@ -2,3 +2,5 @@
 *.vcd
 *_top*.v
 Makefile
+*_tb
+
